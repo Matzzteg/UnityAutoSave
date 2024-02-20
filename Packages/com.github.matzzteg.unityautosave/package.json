@@ -1,0 +1,20 @@
+{
+  "name": "com.matzzteg.matzzteg.unityautosave",
+  "displayName": "Unity AutoSave by Matzzteg",
+  "version": "1.1.0",
+  "description": "Adding a must have for unity, called AutoSave",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.base": "3.5.0"
+  },
+  "author": {
+    "name": "Matzzteg",
+    "email": "support@matzzteg.de",
+    "url": "shop.matzzteg.de"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "C:\\Users\\djjus\\Downloads\\UnityAutoSave-main\\UnityAutoSave-main\\Packages\\com.github.matzzteg.unityautosave",
+  "unity": "2022.3",
+  "unityRelease": "6f1"
+}
