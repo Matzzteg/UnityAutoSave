@@ -62,6 +62,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Remove Listing from Repo Name
+        run: sed -i -e 's/ Listing//g' -e 's/.listing/.repo/g' $GITHUB_WORKSPACE/${{ env.listPublishDirectory }}/index.json
+
       # Prepare for GitHub Pages deployment
       - name: Setup Pages
         uses: actions/configure-pages@f156874f8191504dae5b037505266ed5dda6c382
