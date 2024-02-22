@@ -1,12 +1,10 @@
 {
   "name": "com.matzzteg.matzzteg.unityautosave",
   "displayName": "Unity AutoSave by Matzzteg",
-  "version": "1.1.1",
+  "version": "1.1.3",
   "description": "Adding a must have for unity, called AutoSave",
   "gitDependencies": {},
-  "vpmDependencies": {
-    "com.vrchat.base": "3.5.0"
-  },
+  "vpmDependencies": {},
   "author": {
     "name": "Matzzteg",
     "email": "support@matzzteg.de",
