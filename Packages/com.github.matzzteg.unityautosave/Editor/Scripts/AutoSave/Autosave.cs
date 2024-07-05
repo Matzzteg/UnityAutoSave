@@ -17,7 +17,7 @@ namespace Matzzteg.Editor
     [InitializeOnLoad]
     public class AutoSave : EditorWindow
     {
-        private static readonly string _versionNum = "v1.1.0";
+        private static readonly string _versionNum = "v1.1.4";
 
         private static bool _autoSaveScene = true;
         private static bool _showDebugMessage = true;
